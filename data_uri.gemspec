@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "data_uri"
-  s.version     = "0.0.3"
+  s.version     = "0.0.4"
   s.author      = "Donald Ball"
   s.email       = "donald.ball@gmail.com"
   s.homepage    = "http://github.com/dball/data_uri"
@@ -8,7 +8,6 @@ Gem::Specification.new do |s|
   s.summary     = "A URI class for parsing data URIs as per RFC2397"
 
   s.platform = Gem::Platform::RUBY
-  s.has_rdoc = true
   s.extra_rdoc_files = ["README.rdoc"]
 
   s.require_path = 'lib'
